@@ -21,7 +21,6 @@ const Herosection = ({ title, imageUrl }) => {
                         <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos distinctio quam necessitatibus expedita nostrum pariatur doloremque optio excepturi soluta. Eveniet?
                         </p>
                         <Link href="/movie">
-                            {/* <button className={mulish.className}> */}
                             <button>
                                 Watch Movies
                             </button>

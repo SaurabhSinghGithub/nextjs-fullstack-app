@@ -76,13 +76,13 @@
 @media screen and (max-width:768px) {
 
     .hero_content{
-      order: 1;
+      order: 0;
     }
 
 
     .hero_image{
         justify-content: center;
-        order: 0;
+        order: 1;
     }
 
     .hero_image img{
